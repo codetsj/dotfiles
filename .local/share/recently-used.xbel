@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ts/dwm/patches/config.h" added="2021-11-15T04:23:35.944882Z" modified="2021-11-15T04:23:36.371483Z" visited="2021-11-15T04:23:35.944884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:23:36.371478Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/dwm/patches/dwm-fullgaps-20200508-7b77734.diff" added="2021-11-15T04:36:26.410578Z" modified="2021-11-15T04:36:26.921773Z" visited="2021-11-15T04:36:26.410581Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:36:26.921766Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/dwm/patches/dwm-dynamicswallow-20210221-61bb8b2.diff" added="2021-11-15T04:36:35.186304Z" modified="2021-11-15T04:36:35.682858Z" visited="2021-11-15T04:36:35.186306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:36:35.682853Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/dwm/patches/dwm-pertag-20200914-61bb8b2.diff" added="2021-11-15T04:38:07.425756Z" modified="2021-11-15T04:38:07.892833Z" visited="2021-11-15T04:38:07.425758Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:38:07.892828Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/st/patches/st-anysize-0.8.4.diff" added="2021-11-15T04:39:02.901151Z" modified="2021-11-15T04:39:03.519135Z" visited="2021-11-15T04:39:02.901152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:39:03.519131Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/st/patches/st-alpha-0.8.2.diff" added="2021-11-15T04:39:54.017294Z" modified="2021-11-15T04:39:54.568272Z" visited="2021-11-15T04:39:54.017295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:39:54.568267Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/st/patches/st-scrollback-mouse-20191024-a2c479c.diff" added="2021-11-15T04:55:15.977558Z" modified="2021-11-15T04:55:16.507706Z" visited="2021-11-15T04:55:15.977560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T04:55:16.507701Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/camylla-battani-A5E-ym6WyGM-unsplash.jpg" added="2021-11-15T05:03:56.541371Z" modified="2021-11-15T05:03:56.541382Z" visited="2021-11-15T05:03:56.541373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T05:03:56.541376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/st/patches/st-scrollback-mouse-altscreen-20200416-5703aa0.diff" added="2021-11-15T05:10:53.506273Z" modified="2021-11-15T05:10:54.140552Z" visited="2021-11-15T05:10:53.506275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T05:10:54.140547Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/smt/patches/st-scrollback-mouse-increment-0.8.2.diff" added="2021-11-15T05:14:18.681976Z" modified="2021-11-15T05:14:19.202638Z" visited="2021-11-15T05:14:18.681979Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T05:14:19.202633Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/stscr/patches/st-scrollback-20210507-4536f46.diff" added="2021-11-15T05:16:33.112695Z" modified="2021-11-15T05:16:33.771916Z" visited="2021-11-15T05:16:33.112699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T05:16:33.771910Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/st/patches/st-scrollback-0.8.4.diff" added="2021-11-15T07:12:48.856061Z" modified="2021-11-15T07:12:49.368978Z" visited="2021-11-15T07:12:48.856063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:12:49.368973Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/sts/st/patches/st-scrollback-20210507-4536f46.diff" added="2021-11-15T07:14:55.287126Z" modified="2021-11-15T07:14:55.801969Z" visited="2021-11-15T07:14:55.287128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:14:55.801964Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/sts/st1/patches/st-scrollback-mouse-increment-0.8.2.diff" added="2021-11-15T07:17:56.718256Z" modified="2021-11-15T07:17:57.249093Z" visited="2021-11-15T07:17:56.718258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:17:57.249089Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/sts1/st4/patches/st-scrollback-mouse-increment-0.8.2.diff" added="2021-11-15T07:44:25.307948Z" modified="2021-11-15T07:44:25.845247Z" visited="2021-11-15T07:44:25.307950Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:44:25.845242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-scrollback-20210507-4536f46.diff" added="2021-11-15T07:53:39.698945Z" modified="2021-11-15T07:53:40.391527Z" visited="2021-11-15T07:53:39.698947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:53:40.391523Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/&apos;.diff" added="2021-11-15T07:53:51.248759Z" modified="2021-11-15T07:53:51.768594Z" visited="2021-11-15T07:53:51.248762Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:53:51.768589Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-scrollback-mouse-20191024-a2c479c.diff" added="2021-11-15T07:53:55.472732Z" modified="2021-11-15T07:53:55.958639Z" visited="2021-11-15T07:53:55.472734Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:53:55.958633Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-scrollback-mouse-altscreen-20200416-5703aa0.diff" added="2021-11-15T07:54:02.316854Z" modified="2021-11-15T07:54:02.966859Z" visited="2021-11-15T07:54:02.316855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:54:02.966854Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-scrollback-mouse-increment-0.8.2.diff" added="2021-11-15T07:54:08.303416Z" modified="2021-11-15T07:54:08.826521Z" visited="2021-11-15T07:54:08.303419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:54:08.826517Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-alpha-0.8.2.diff" added="2021-11-15T07:54:23.160212Z" modified="2021-11-15T07:54:23.820989Z" visited="2021-11-15T07:54:23.160215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:54:23.820985Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/Downloads/st/patches/st-anysize-0.8.4.diff" added="2021-11-15T07:54:37.894972Z" modified="2021-11-15T07:54:38.364983Z" visited="2021-11-15T07:54:37.894974Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T07:54:38.364978Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/dls" added="2021-11-15T08:13:09.727430Z" modified="2021-11-15T08:13:19.936059Z" visited="2021-11-15T08:13:09.727431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T08:13:19.936055Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ts/wal/st/patches/st-font2-20190416-ba72400.diff" added="2021-11-15T11:38:13.580873Z" modified="2021-11-15T11:38:14.272782Z" visited="2021-11-15T11:38:13.580875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-15T11:38:14.272778Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
